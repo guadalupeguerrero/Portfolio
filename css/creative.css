@@ -1,0 +1,174 @@
+html{
+	font-size: 10px;
+	font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+.container{
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1200px;
+
+}
+
+.principal-orange{
+	background: #f05f40;
+	height: 20rem; 
+}
+
+
+.text-white{
+	color:white;
+}
+
+.blanco{
+	width: 5%;
+	border: 2px solid white;
+	border: 0.2rem solid white;
+}
+
+.jumbotron {
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 20%
+}
+h2 {
+	text-transform: uppercase;
+}
+
+ul li {
+	list-style-type: none;
+	white-space: nowrap;
+	margin-right: 2em;
+	margin-top: 2em;
+}
+.alone {
+	margin-top: 2em;
+}
+.navegador {
+	text-transform: uppercase;
+	color: #ffffff;
+}
+.navegador:hover {
+	text-decoration: none;
+	color: #1d11af;
+}
+.subt2 {
+	text-transform: uppercase;
+}
+button {
+	background-color: #ff5c33;
+	border: none;
+	border-radius: 32%;
+	padding: 1rem 2rem;
+}
+/* Esta parte la hizo lupita */
+
+h2.titulos{
+	padding: 100px 0 0 0;
+	padding: 10rem 0 0 0;
+}
+
+.orange{
+	width: 5%;
+	border: 2px solid #f05f40;
+	border: 0.2rem solid #f05f40;
+}
+
+.color-orange{
+	color: #f05f40;
+}
+
+.content-service{
+	font-size: 12px;
+	font-size: 1.2rem;
+}
+
+.text-gray{
+	color:#A9A9A9;
+}
+
+.subtitulo{
+	font-size: 16px;
+	font-size: 1.6rem;
+}
+
+.size-icon{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+
+
+.pictures{
+	margin-top: 5%;
+}
+
+
+
+.position-box {
+    float: left;
+    position: relative;
+    margin: 0 auto;
+    max-width: 650px;
+    width: 100%;
+    height: auto;
+}
+
+.position-box .box-orange {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    opacity: 0;
+    background: rgba(240,95,64,.9);
+    
+}
+
+.position-box .box-orange .box-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.position-box:hover .box-orange {
+    opacity: 1;
+}
+
+.bground-black{
+	background: black;
+	height: 12em;
+
+}
+
+.text-white{
+	color: white;
+}
+
+.clic{
+	background: white;
+	color: black;
+	border-radius: 5rem;
+	font-size: 1.2rem;
+	font-weight: 700;
+	padding: 1.5%;
+	text-decoration: none;
+}
+
+.pb-2{
+	margin-bottom: 3%;
+}
+
+.contacto{
+	font-size: 1.6rem;
+	width: 60%;
+}
+
+
+
+
+
